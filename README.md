@@ -11,6 +11,7 @@ Change the username, password, and port number in front_end/conn.php to match th
 Go to localhost:{Apache Port}/front_end/index.html to use the application. Note that Apache Port is likely a config in the MAMP client. This is not the SQL port.
 
 ## Technologies
+Mysql
 PHP
 HTML
 CSS
