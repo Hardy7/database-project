@@ -1,4 +1,4 @@
-# database-project
+# Bank Loan Data Visualizer
 
 ## To set up
 
