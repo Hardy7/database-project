@@ -1,4 +1,7 @@
-# Bank Loan Data Visualizer
+# CS5265 Bank Loan Data Visualizer
+
+## Introduce
+Our application allows users to perform a variety of operations on an applicant, such as viewing and updating basic information of an applicant and their risk, adding, and deleting applicants. It also allows users to compare the applicant’s income to the amount of credit requested, and view insights regarding how the high-risk and low-risk populations compare, specifically in terms of income to credit requested ratio, car ownership ratio, average, min, and max income, average age, and average days of employment.
 
 ## To set up
 
@@ -12,7 +15,7 @@
 
 ## Technologies
 * Mysql
-PHP
-HTML
-CSS
-JavaScript
+* PHP
+* HTML
+* CSS
+* JavaScript
